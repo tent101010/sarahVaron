@@ -1,0 +1,147 @@
+body {
+   background-color:#fff;
+   font-family:arial, helvetica, sans-serif;
+   color:#006;
+   font-size:76%;
+   text-align:center;
+   background:#fff;
+   padding:30px 0px 30px 0px;
+   margin:0;
+} 
+
+table tr td {
+   margin:0;
+   border:none;
+   padding:0;
+}
+
+a {
+   color:#33c;
+   text-decoration:none;
+}
+
+a:hover { color:#600; }
+a:visited { color:#669; }
+a:visited:hover { color:#600; }
+div.attnLink { text-align:center; }
+div.attnLink a { text-decoration:underline; }
+
+img, hr { border:none; }
+
+hr { 
+   margin:0;
+   height:1px; 
+   width:450px; 
+   color:#000; 
+   background-color:#000; 
+}
+
+h1 { margin:0; font-size:2.2em; color:#600; }
+h2 { margin:5px 0px 0px 0px; font-size:1.75em; color:#006; }
+
+h3 {
+   margin:0;
+   text-align:center;
+   font-weight:bold;
+   font-size:1.5em;
+}
+
+h3.norm { font-weight:normal; }
+
+h4 { font-size:1.25em; }
+
+ul { list-style-type:disc; }
+
+li { padding:2px 70px 8px 20px; }
+
+#frame {
+   position:relative;
+   text-align:left;
+   padding:0px 0px 0px 0px;
+   border:solid 1px #666;
+   width:950px;
+}
+
+html > body #frame { margin:0 auto; }
+
+#header { padding:0; }
+
+#header div.headerLt { float:left; }
+#header div.headerRt { float:right; }
+#header div.headerMain { 
+   border-top:solid 1px #666; 
+   padding:10px 0px 10px 0px; 
+   text-align:center; 
+}
+#header div div.headerCaption { text-align:center; font-size:0.9em; }
+#nav {
+   text-align:center;
+   font-size:1em;
+   font-weight:bold;
+   line-height:2em;
+   border-top:solid 1px #666;
+   border-bottom:solid 1px #666;
+   padding-bottom:1px;
+}
+
+#mainContent { padding:20px 15px 20px 15px; }
+
+.lgPhotos { 
+   padding:20px 20px 20px 20px; 
+   text-align:center; 
+   height:317px;
+}
+
+.lgPhotoLt {
+   float:left;
+}
+
+.lgPhotoRt {
+   float:right;
+}
+
+#gallery { text-align:center; }
+
+.thumbs { padding-top:15px; }
+
+.thumbs img { padding:0px 5px 0px 5px; }
+
+#footer {
+   position:relative;
+   margin:0;
+   padding:10px 15px 10px 15px;
+   border-top:solid 1px #666;
+   height:15px;
+}
+
+#footer div.footerLt { float:left; }
+#footer div.footerRt { float:right; }
+
+.pad { padding:0px 10px 0px 10px; }
+
+.hr {
+   padding:5px 0px 5px 0px;
+   text-align:center;
+}
+
+.border {
+   border:solid 1px #666;
+   padding:5px;
+}
+
+.taRt { text-align:right; }
+
+.quote {
+   padding:0px 30px 0px 30px;
+   font-style:italic;
+}
+
+.bold { font-weight:bold; }
+
+.deepIndent { padding-left:200px; }
+
+.clearLt { clear:left; }
+.clearRt { clear:right; }
+.clearBoth { clear:both; }
+
+div.multimedia { text-align:center; }
