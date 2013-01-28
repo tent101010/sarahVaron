@@ -12,7 +12,7 @@
       $upLt = "homeUpLt.jpg";
       $upLtCap = "The Varon Family";
       $upRt = "homeUpRt.jpg";
-      $upRtCap = "Sarah with her sisters, cousins and grandparents";
+      $upRtCap = "Sarah’s middle school photo 6th grade";
    } else if ( $pgId === "anno" ) {
       $upLt = "annoUpLt.jpg";
       $upLtCap = "Sarah with Mom and Dad";
@@ -20,9 +20,9 @@
       $upRtCap = "Sarah with her sisters and cousins";
    } else if ( $pgId === "dona" ) {
       $upLt = "donaUpLt.jpg";
-      $upLtCap = "Dad helps Sarah talk to Grandma Esther";
+      $upLtCap = "Sarah and her parents";
       $upRt = "donaUpRt.jpg";
-      $upRtCap = "Alix, Sarah and Lilly";
+      $upRtCap = "Sarah and her sisters";
    } else if ( $pgId === "phot" ) {
       $upLt = "photUpLt.jpg";
       $upLtCap = "Red Tie family gathering";
