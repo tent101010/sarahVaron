@@ -25,9 +25,9 @@
       $upRtCap = "Sarah and her sisters";
    } else if ( $pgId === "phot" ) {
       $upLt = "photUpLt.jpg";
-      $upLtCap = "Red Tie family gathering";
+      $upLtCap = "Alex and Sarah";
       $upRt = "photUpRt.jpg";
-      $upRtCap = "Sarah with her mom";
+      $upRtCap = "Alex and Sarah";
    } else if ( $pgId === "pare" ) {
       $upLt = "pareUpLt.jpg";
       $upLtCap = "Mom and dad, 10th Anniversary in Mendocino";
