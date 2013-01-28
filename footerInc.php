@@ -6,9 +6,9 @@
    $mainRtCap;
    if ( $pgId === "home" ) {
       $mainLt = "homeMainLt.jpg";
-      $mainLtCap = "Sarah with her Grandparents";
+      $mainLtCap = "Grandparents 50th Anniversary party with grandchildren";
       $mainRt = "homeMainRt.jpg";
-      $mainRtCap = "The Varon Family";
+      $mainRtCap = "Grandparents 50th Anniversary Party with extended family";
    } else if ( $pgId === "anno" ) {
       $mainLt = "annoMainLt.jpg";
       $mainLtCap = "Lindsay, Sarah and Lilly";
